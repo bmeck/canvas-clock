@@ -1,0 +1,11 @@
+{
+  "name": "canvas-clock",
+  "subdomain": "canvas-clock",
+  "scripts": {
+    "start": "app.js"
+  },
+  "version": "0.0.0-7",
+  "dependencies": {
+    "canvas": "0.8.x"
+  }
+}
